@@ -1,0 +1,5 @@
+:scheduler:
+  :schedule:
+    twitter_bot:
+      every: '1m'
+      class: TwitterBotJob
